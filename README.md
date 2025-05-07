@@ -30,12 +30,12 @@
 <h3 align="left">🛠️ Most Used Frameworks and Tools</h3>
 
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/UIKit_logo.svg" alt="UIKit" width="40" height="40"/>  
+  <img src="https://raw.githubusercontent.com/Jiunhong712/Jiunhong712/998175c7dd00197dbc3a18ddc7e59fc31ce179b6/uikit.svg" alt="UIKit" width="40" height="40"/>  
   <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>  
+  <img src="https://raw.githubusercontent.com/Jiunhong712/Jiunhong712/998175c7dd00197dbc3a18ddc7e59fc31ce179b6/firebase-1.svg" alt="Firebase" width="40" height="40"/>  
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>  
   <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" alt="HuggingFace Transformers" width="40" height="40"/>  
-  <img src="https://github.com/ultralytics/yolov5/raw/master/docs/yolov5-logo.png" alt="YOLOv8" width="60" height="30"/>  
+  <img src="https://raw.githubusercontent.com/Jiunhong712/Jiunhong712/b1693626e85d82f7f74c4cb9dbb9b571ea9f0df9/Ultralytics_YOLOv8_Logotype_1_Original.svg" width="80" height="60"/>  
 </p>
 
 

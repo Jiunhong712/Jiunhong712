@@ -1,14 +1,50 @@
-<h1 align="center">Hi 👋, I'm Jiun Hong</h1>
-<h3 align="center">Final-year Computer Engineering student proficient in Swift and Flutter for mobile app development. I am also experienced in HuggingFace transformers and YOLOv8 for machine and deep learning.</h3>
+<h1 align="center">Hi, I'm Jiun Hong👋</h1>
 
-- 🌱 I’m currently learning **foundational AI concepts such as prompt engineering, dataset preparation, and training or fine-tuning foundation models along with OCR implementation.**
+<h3 align="center">Final-year Computer Engineering student passionate about mobile app development and building AI systems.</h3>
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1607ZdqHLwd2YCinINo_qgzvbyPuPFTWf/view?usp=sharing](https://drive.google.com/file/d/1607ZdqHLwd2YCinINo_qgzvbyPuPFTWf/view?usp=sharing)
+---
 
-<h3 align="left">Connect with me:</h3>
+🔧 **About Me**
+
+- 🎓 Final-year Computer Engineering student  
+- 📱 Proficient in **Swift** and **Flutter** for mobile app development  
+- 🤖 Experienced with **YOLOv8**, **HuggingFace Transformers**, and **OpenCV** for deep learning and computer vision  
+- 🔍 Currently diving into **foundational AI concepts** like prompt engineering, and training/fine-tuning foundation models  
+- 🧠 Working on my FYP project related to **Receipt Scanning and Product Categorization using OCR and LLM**
+
+
+📄 **Check out my resume**: [View PDF](https://drive.google.com/file/d/1607ZdqHLwd2YCinINo_qgzvbyPuPFTWf/view?usp=sharing)
+
+---
+
+<h3 align="left">📝 Languages I Use The Most</h3>
+
 <p align="left">
-<a href="https://linkedin.com/in/limjiunhong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="limjiunhong" height="30" width="40" /></a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift" width="40" height="40"/>  
+  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>  
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
+
+<h3 align="left">🛠️ Most Used Frameworks and Tools</h3>
+
+<p align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/UIKit_logo.svg" alt="UIKit" width="40" height="40"/>  
+  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>  
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>  
+  <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" alt="HuggingFace Transformers" width="40" height="40"/>  
+  <img src="https://github.com/ultralytics/yolov5/raw/master/docs/yolov5-logo.png" alt="YOLOv8" width="60" height="30"/>  
+</p>
+
+
+---
+
+<h3 align="left">📫 Connect with me</h3>
+
+<p align="left">
+  <a href="https://linkedin.com/in/limjiunhong" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
+  </a>
+</p>

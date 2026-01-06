@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Jiun Hong👋</h1>
 
-<h3 align="center">Computer Engineering (AI) graduate. Passionate about app development and building AI systems.</h3>
+<h3 align="center">Computer Engineering (AI) graduate. I'm passionate about app development and building AI systems.</h3>
 
 ---
 
@@ -12,7 +12,7 @@
 - 🚀 Experienced in fine-tuning and deploying AI models, while actively exploring real-world production use cases
 
 
-📄 **Check out my resume**: [View PDF](https://drive.google.com/file/d/1607ZdqHLwd2YCinINo_qgzvbyPuPFTWf/view?usp=sharing)
+📄 **Check out my resume**: [View PDF](https://drive.google.com/file/d/1wFaBsfgzib7htusGDYEIuUBvvBg445JJ/view?usp=sharing)
 
 ---
 

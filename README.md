@@ -1,16 +1,15 @@
 <h1 align="center">Hi, I'm Jiun Hong👋</h1>
 
-<h3 align="center">Final-year Computer Engineering student passionate about mobile app development and building AI systems.</h3>
+<h3 align="center">Computer Engineering (AI) graduate. Passionate about app development and building AI systems.</h3>
 
 ---
 
 🔧 **About Me**
 
-- 🎓 Final-year Computer Engineering student  
-- 📱 Proficient in **Swift** and **Flutter** for mobile app development  
-- 🤖 Experienced with **YOLOv8**, **HuggingFace Transformers**, and **OpenCV** for deep learning and computer vision  
-- 🔍 Currently diving into **foundational AI concepts** like prompt engineering, and training/fine-tuning foundation models  
-- 🧠 Working on my FYP project related to **Receipt Scanning and Product Categorization using OCR and LLM**
+- 🎓 AI Automation Engineer  
+- 📱 Proficient in **Flutter** and **Swift** for cross-platform and iOS app development 
+- 🤖 Hands-on experience with YOLOv8, RF-DETR, Hugging Face Transformers, and OpenCV for computer vision and deep learning
+- 🚀 Experienced in fine-tuning and deploying AI models, while actively exploring real-world production use cases
 
 
 📄 **Check out my resume**: [View PDF](https://drive.google.com/file/d/1607ZdqHLwd2YCinINo_qgzvbyPuPFTWf/view?usp=sharing)
